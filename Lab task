@@ -1,0 +1,10 @@
+{
+  "title": "App title",
+  "login": [
+    { "id": "1", "username": "Star Wars", "password": "1977" },
+    { "id": "2", "username": "Back to the Future", "password": "1985" },
+    { "id": "3", "username": "The Matrix", "password": "1999" },
+    { "id": "4", "username": "Inception", "password": "2010" },
+    { "id": "5", "username": "Interstellar", "password": "2014" }
+  ]
+}
